@@ -42,17 +42,17 @@ I'm a passionate Full Stack Developer specializing in Laravel and Angular develo
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Badr029&show_icons=true&theme=radical" alt="Badr's GitHub stats" />
-</div>
+</div>-->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badr029&theme=radical" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badr029&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+</div> -->
 
 ## 🤝 Let's Connect!
 
