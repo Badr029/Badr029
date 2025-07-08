@@ -10,7 +10,7 @@
 I'm a passionate Full Stack Developer specializing in Laravel and Angular development.
 
 <!-- - 🔭 I'm currently working on **Scout Pro Full Stack Application** -->
-- 🌱 I'm currently learning **Advanced Angular Patterns and Laravel Best Practices**
+- 🌱 I'm currently learning **React.js and Laravel Best Practices**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Laravel, Angular, Full Stack Development**
 - 📍 Based in Egypt
