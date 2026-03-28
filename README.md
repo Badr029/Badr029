@@ -1,11 +1,6 @@
 
 # Hi there 👋! I'm Badr - Full Stack Developer
 
-## 👨‍💻 About Me
-
-I'm a passionate Full Stack Developer specializing in Laravel and Angular development.
-
-
 ## 🛠️ Tech Stack
 
 <div align="center">
