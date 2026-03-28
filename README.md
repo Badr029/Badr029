@@ -1,18 +1,10 @@
 
 # Hi there 👋! I'm Badr - Full Stack Developer
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9AD1&random=false&width=435&lines=Full+Stack+Developer;Laravel+%2B+Angular+Developer;Always+learning+new+things" alt="Typing SVG" />
-</div>
-
 ## 👨‍💻 About Me
 
 I'm a passionate Full Stack Developer specializing in Laravel and Angular development.
 
-<!-- - 🔭 I'm currently working on **Scout Pro Full Stack Application** -->
-- 🌱 I'm currently learning **React.js and Laravel Best Practices**
-- 📍 Based in Egypt
-- ⚡ Fun fact: I love football and coding equally! ⚽💻
 
 ## 🛠️ Tech Stack
 
@@ -22,6 +14,9 @@ I'm a passionate Full Stack Developer specializing in Laravel and Angular develo
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Frontend Development
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -35,7 +30,8 @@ I'm a passionate Full Stack Developer specializing in Laravel and Angular develo
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Selenium WebDriver](https://img.shields.io/badge/-WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 </div>
 
 ## 📊 GitHub Stats
