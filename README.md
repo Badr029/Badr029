@@ -27,7 +27,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Selenium WebDriver](https://img.shields.io/badge/-WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 </div>
 
 ## 📊 GitHub Stats
