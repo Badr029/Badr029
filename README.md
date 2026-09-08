@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mohamedbadrrr.vercel.app">
+  <a href="https://mohamedbadr.vercel.app">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=35e6c4&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Badr" alt="Hello! I&#39;m Badr" />
   </a>
 </p>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mohamedbadrrr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mohamedbadrrr.vercel.app-35e6c4?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://mohamedbadr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mohamedbadr.vercel.app-35e6c4?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/mohamedbadr14"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohamedmostafa8625@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -36,9 +36,9 @@ export file on my portfolio, not a claim.
 
 | Project | Stack | What the testing found |
 |---|---|---|
-| **[SportHub](https://github.com/Badr029/SportsHub)** | ASP.NET Core 8, Angular 19, EF Core, MySQL 8 | 101 cases over 4 cycles, **18 defects to resolution**, 34/34 endpoints covered. One ticket was marked *Resolved* and still reproduced. [Case study](https://mohamedbadrrr.vercel.app/case-studies/sporthub.html) |
-| **[ScoutPro](https://github.com/Badr029/Scout-Pro)** | Laravel 12, Sanctum, Angular 19, MySQL 8 | 112 cases, **103 defects**, and a first cycle that failed 60 of them. The failures clustered in authorization and entitlement. [Case study](https://mohamedbadrrr.vercel.app/case-studies/scoutpro.html) |
-| **[StatusPulse](https://github.com/Badr029/statuspulse)** | Node, Express, PostgreSQL 15, React 18, Docker | Automation is the deliverable: **20 browser scenarios, 81 Jest tests, a four-job CI pipeline**. [Automation write-up](https://mohamedbadrrr.vercel.app/automation/index.html) |
+| **[SportHub](https://github.com/Badr029/SportsHub)** | ASP.NET Core 8, Angular 19, EF Core, MySQL 8 | 101 cases over 4 cycles, **18 defects to resolution**, 34/34 endpoints covered. One ticket was marked *Resolved* and still reproduced. [Case study](https://mohamedbadr.vercel.app/case-studies/sporthub.html) |
+| **[ScoutPro](https://github.com/Badr029/Scout-Pro)** | Laravel 12, Sanctum, Angular 19, MySQL 8 | 112 cases, **103 defects**, and a first cycle that failed 60 of them. The failures clustered in authorization and entitlement. [Case study](https://mohamedbadr.vercel.app/case-studies/scoutpro.html) |
+| **[StatusPulse](https://github.com/Badr029/statuspulse)** | Node, Express, PostgreSQL 15, React 18, Docker | Automation is the deliverable: **20 browser scenarios, 81 Jest tests, a four-job CI pipeline**. [Automation write-up](https://mohamedbadr.vercel.app/automation/index.html) |
 
 ### Tech Stack
 
@@ -90,7 +90,7 @@ export file on my portfolio, not a claim.
 ### Connect With Me
 
 <p align="left">
-  <a href="https://mohamedbadrrr.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-35e6c4?style=for-the-badge&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://mohamedbadr.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-35e6c4?style=for-the-badge&logoColor=black" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/mohamedbadr14" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohamedmostafa8625@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/mohamedbadrrr_/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
