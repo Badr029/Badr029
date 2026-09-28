@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1200&color=FF3B3B&center=true&vCenter=true&width=900&height=44&lines=QA%20Engineer%20with%20a%20backend%20development%20background;I%20build%20the%20system%2C%20then%20I%20go%20back%20and%20find%20where%20it%20breaks;213%20manual%20cases%20%7C%20121%20defects%20closed%20%7C%20351%20API%20assertions" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1200&color=FF3B3B&center=true&vCenter=true&width=900&height=44&lines=QA%20Engineer%20with%20a%20backend%20development%20background;I%20build%20the%20system%2C%20then%20I%20go%20back%20and%20find%20where%20it%20breaks;265%20manual%20cases%20%7C%20140%20defects%20closed%20%7C%20351%20API%20assertions" alt="Typing headlines" />
 </p>
 
 <p align="center">
@@ -20,15 +20,17 @@
 tester, a tester whose engineering knowledge tells him exactly where a system is most likely
 to break.
 
-I built three full-stack systems end to end, then went back and tested them properly, with real
-test management, real defect tracking and real execution cycles. Everything below traces to an
-export file on my portfolio, not a claim.
+I built four full-stack systems end to end, then went back and tested them properly, with real
+test management, real defect tracking and real execution cycles. Manual where judgement is
+needed, automated where it repeats, and under load where a number is the only honest answer.
+Everything below traces to an export file on my portfolio, not a claim.
 
 <table>
-  <tr><td><b>213</b></td><td>manual test cases across 26 modules, in Zephyr Scale</td></tr>
-  <tr><td><b>121</b></td><td>defects found, triaged and tracked to resolution in Jira</td></tr>
-  <tr><td><b>351</b></td><td>API assertions at 34/34 endpoint coverage, green under Newman</td></tr>
+  <tr><td><b>265</b></td><td>manual test cases across 36 modules, in Zephyr Scale</td></tr>
+  <tr><td><b>140</b></td><td>defects found, triaged and tracked to resolution in Jira</td></tr>
+  <tr><td><b>351</b></td><td>API assertions at full endpoint coverage, green under Newman</td></tr>
   <tr><td><b>40</b></td><td>Selenium E2E scenarios on the Page Object Model</td></tr>
+  <tr><td><b>10</b></td><td>JMeter load workloads &mdash; cut a 30-user p95 from 17.4s to 2.6s</td></tr>
   <tr><td><b>CTFL</b></td><td>ISTQB Foundation Level v4.0</td></tr>
 </table>
 
@@ -36,9 +38,14 @@ export file on my portfolio, not a claim.
 
 | Project | Stack | What the testing found |
 |---|---|---|
+| **[CommitteeFlow](https://github.com/Badr029/CommitteeFlow)** | React 19, Express 5, PostgreSQL 17, Vercel | 52 cases over 2 cycles, **19 defects**, plus **10 JMeter workloads** that isolated a connection-pool bottleneck and cut a 30-user p95 from 17.4s to 2.6s. [Case study](https://mohamedbadr.vercel.app/case-studies/committeeflow.html) |
 | **[SportHub](https://github.com/Badr029/SportsHub)** | ASP.NET Core 8, Angular 19, EF Core, MySQL 8 | 101 cases over 4 cycles, **18 defects to resolution**, 34/34 endpoints covered. One ticket was marked *Resolved* and still reproduced. [Case study](https://mohamedbadr.vercel.app/case-studies/sporthub.html) |
 | **[ScoutPro](https://github.com/Badr029/Scout-Pro)** | Laravel 12, Sanctum, Angular 19, MySQL 8 | 112 cases, **103 defects**, and a first cycle that failed 60 of them. The failures clustered in authorization and entitlement. [Case study](https://mohamedbadr.vercel.app/case-studies/scoutpro.html) |
 | **[StatusPulse](https://github.com/Badr029/statuspulse)** | Node, Express, PostgreSQL 15, React 18, Docker | Automation is the deliverable: **20 browser scenarios, 81 Jest tests, a four-job CI pipeline**. [Automation write-up](https://mohamedbadr.vercel.app/automation/index.html) |
+
+Four systems, 194 REST endpoints between them, built end to end before testing was ever
+formalised as a discipline &mdash; which is the point: I test like someone who has to live with
+what a defect report actually asks a developer to do. [Full-stack write-up](https://mohamedbadr.vercel.app/full-stack/index.html)
 
 ### Tech Stack
 
@@ -49,6 +56,7 @@ export file on my portfolio, not a claim.
   <img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Newman" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Supertest" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
@@ -108,3 +116,5 @@ export file on my portfolio, not a claim.
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Badr029&bg_color=00000000&color=35e6c4&line=35e6c4&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
+
+---
